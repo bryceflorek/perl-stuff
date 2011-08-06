@@ -3,6 +3,7 @@
 print("Guess the Number Game\n");
 print("---------------------\n\n");
 print("You have 5 guesses to get the correct number or else you lose.\n");
+print("Number is randomly picked between 1 and 50.\n");
 
 $range = 50;
 $minum = 1;
